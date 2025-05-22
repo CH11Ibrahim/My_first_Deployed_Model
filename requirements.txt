@@ -1,7 +1,7 @@
 streamlit
 pandas
 joblib
-numpy>=1.24.0
+numpy
 setuptools
 pickle5
 matplotlib
